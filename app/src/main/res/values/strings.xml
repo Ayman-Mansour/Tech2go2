@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Tech2go</string>
+    <string name="title_home">Home</string>
+    <string name="title_syatems">Systems</string>
+    <string name="title_standers">Standers</string>
+    <string name="title_about">About</string>
+    <string name="title_contact">Contact us</string>
+    <string name="title_location">Location</string>
+    <string name="title_safety">Safety</string>
+    <string name="title_equipment">Equipment</string>
+    <string name="title_proficiency">Proficiency</string>
+    <string name="title_concern">Concern</string>
+    <string name="title_consultation">Consultation</string>
+    <string name="des_safety">"Tech 2 Go team members will properly maintain equipment, tape down and conceal cables and adhere to all established safety procedures including the necessary organizational structures and policies and procedures."</string>
+    <string name="des_equipment">"Tech 2 Go will provide the latest and most up to date equipment that is properly maintained by our team members so that it is properly functioning and cosmetically appealing, team members are empowered to proactively request new equipment at all times to meet this standard and ensure our customers satisfaction and receive the latest technology available to the task in hand."</string>
+    <string name="des_proficiency">"Tech 2 Go team members are skilled and knowledgeable in their areas of expertise, they will execute all time lines in a positive and proactive manner. We are proud to achieve your goals in both quality and schedule wise terms."</string>
+    <string name="des_concern">"Tech 2 Go team members will consistently and proactively demonstrate confidence and empathy with a positive attitude to show a continual sense of urgency for every customer request , team members will be empowered and accountable for the complete success of every installation and will greet and thank the customers with vigor and energy at all times including on the telephone ."</string>
+    <string name="des_consultation">"Tech 2 Go team members will work together with the customers in a proactive pre-planning effort and offer creative ideas for each request to solidify redundant business and create new relationships."</string>
+    <string name="motto">"With Tech2Go realize your dreams come to life"</string>
+
+    <string-array name="lowcurrent_system_list">
+        <item>Conference Systems</item>
+        <item>Close Circuit Television Systems ( CCTV )</item>
+        <item>Public Addressing System ( PA )</item>
+        <item>Access Control &amp; Attendance Systems</item>
+        <item>TV network Systems</item>
+        <item>Security Systems</item>
+    </string-array>
+
+    <string-array name="system_list">
+        <item>Designing Department</item>
+        <item>ICT Department</item>
+        <item>Consultation</item>
+        <item>Training Courses</item>
+        <item>Smart Home Systems</item>
+        <item>Projects Planning</item>
+        <item>Electromechanical(HVAC Systems,Plumbing&amp;Electrical)</item>
+        <item>Interior Design</item>
+        <item>Low Current Systems</item>
+    </string-array>
+    <string-array name="home_list">
+        <item>Designing Department</item>
+        <item>ICT Department</item>
+        <item>Consultation</item>
+        <item>Training Courses</item>
+        <item>Smart Home Systems</item>
+        <item>Projects Planning</item>
+        <item>Electromechanical(HVAC Systems,Plumbing&amp;Electrical)</item>
+        <item>Interior Design</item>
+        <item>Low Current Systems</item>
+        <item>Designing Department</item>
+        <item>ICT Department</item>
+        <item>Consultation</item>
+        <item>Training Courses</item>
+        <item>Smart Home Systems</item>
+        <item>Projects Planning</item>
+        <item>Electromechanical(HVAC Systems,Plumbing&amp;Electrical)</item>
+        <item>Interior Design</item>
+        <item>Low Current Systems</item>
+    </string-array>
+    <string name="conference_des">
+        <b>"Features:\n\n"</b>
+        "   &#8226; Sound re-enforcement.\n"
+        "   &#8226; Multi – channel distribution.\n"
+        "   &#8226; Simulation interpretation.\n"
+        "   &#8226; Real – time electronic voting.\n"
+        "   &#8226; Microphone management / name handling.\n"
+        "   &#8226; Automated camera control.\n"
+        "   &#8226; Broadcast feed.\n"
+        "   &#8226; Teleconferencing / video conferencing.\n"
+        "   &#8226; Verbatim recording and digital archiving.\n"
+    </string>
+
+    <string name="cctv_des">
+        <b>"Applications:\n\n"</b>
+        "   &#8226; Bank ATMs.\n"
+        "   &#8226; Markets.\n"
+        "   &#8226; Hospitals.\n"
+        "   &#8226; Residential (Towers, Apartments, and Villas).\n"
+        "   &#8226; Organizations  …etc.\n"
+    </string>
+
+    <string name="access_des">
+        <b>"Features:\n\n"</b>
+        "   &#8226; Time attendance and control for all environments.\n"
+        "   &#8226; Controlling and access monitoring.\n"
+        "   &#8226; Protecting any restricted or secret areas.\n"
+        "   &#8226; Visitors identification and management.\n"
+        "   &#8226; Multiple-entrance prevention.\n"
+        "   &#8226; Incoming and outgoing access control.\n"
+    </string>
+    <string name="systems_solutions">We are proud to introduce our ambitious relationship with the systems used in our solutions.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
